@@ -1,0 +1,4 @@
+{
+  "payload": "{\"app\":\"screen\",\"latest\":\"1.0.1\",\"min\":\"1.0.1\",\"notes\":\"Prima versiune Screen\",\"issuedAt\":1791290347086,\"downloads\":{\"mac\":{\"url\":\"https://github.com/23botnari/screen-releases/releases/download/v1.0.1/Screen-1.0.1-mac-arm64.dmg\",\"sha256\":\"20464a8d7a18fb60cd48bc00ac84c113f1977e40b0d5163849a621d89eb4cdba\"},\"win\":{\"url\":\"https://github.com/23botnari/screen-releases/releases/download/v1.0.1/Screen-1.0.1-win-x64.exe\",\"sha256\":\"7ba6b9f2f00ae19a158bc12bf7be497c86d57d521da1984bdbcebba3898efff5\"}}}",
+  "sig": "NsRa7SJ4Mht3CkPD3BLouEnhWHWSChwTHD9+1FOQXyiqMy6nDPr/Uv6fC82IXoH1h4rxcMViO+XSdP+GfMvtCA=="
+}

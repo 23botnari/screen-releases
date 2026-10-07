@@ -2,14 +2,15 @@
 
 Acest repo conține **doar** installerele aplicației Screen și fișierul `version.json`. Nu conține cod sursă.
 
-- **Versiunea curentă:** 1.0.4
-- **Versiunea minimă permisă:** 1.0.4 — versiunile mai vechi se blochează la pornire până la actualizare.
+- **Versiunea curentă:** 1.0.5
+- **Versiunea minimă permisă:** 1.0.5 — versiunile mai vechi se blochează la pornire până la actualizare.
 
 ## Istoric
 
 | Versiune | Data | Ce s-a schimbat | Descarcă |
 |---|---|---|---|
-| 1.0.4 **(ultima)** ⚠ minimă | 2026-10-06 | Tastatura calculatorului la tabletă (cu diacritice și paste), ecran dedicat tabletei deschise, pornire automată/manuală a tastaturii | [Mac](https://github.com/23botnari/screen-releases/releases/download/v1.0.4/Screen-1.0.4-mac-arm64.dmg) · [Windows](https://github.com/23botnari/screen-releases/releases/download/v1.0.4/Screen-1.0.4-win-x64.exe) |
+| 1.0.5 **(ultima)** ⚠ minimă | 2026-10-07 | Installer Windows reparat: actualizarea peste o versiune veche nu mai rămâne blocată la „Nu s-a putut închide Screen” | [Mac](https://github.com/23botnari/screen-releases/releases/download/v1.0.5/Screen-1.0.5-mac-arm64.dmg) · [Windows](https://github.com/23botnari/screen-releases/releases/download/v1.0.5/Screen-1.0.5-win-x64.exe) |
+| 1.0.4 | 2026-10-06 | Tastatura calculatorului la tabletă (cu diacritice și paste), ecran dedicat tabletei deschise, pornire automată/manuală a tastaturii | [Mac](https://github.com/23botnari/screen-releases/releases/download/v1.0.4/Screen-1.0.4-mac-arm64.dmg) · [Windows](https://github.com/23botnari/screen-releases/releases/download/v1.0.4/Screen-1.0.4-win-x64.exe) |
 | 1.0.3 | 2026-10-06 | Mesaj „Tabletă găsită” pe carduri, versiunea mutată în Setări | [Mac](https://github.com/23botnari/screen-releases/releases/download/v1.0.3/Screen-1.0.3-mac-arm64.dmg) · [Windows](https://github.com/23botnari/screen-releases/releases/download/v1.0.3/Screen-1.0.3-win-x64.exe) |
 | 1.0.2 | 2026-10-06 | Parolă la deschidere, protecție anti-modificare | [Mac](https://github.com/23botnari/screen-releases/releases/download/v1.0.2/Screen-1.0.2-mac-arm64.dmg) · [Windows](https://github.com/23botnari/screen-releases/releases/download/v1.0.2/Screen-1.0.2-win-x64.exe) |
 | 1.0.1 | 2026-10-06 | Prima versiune Screen | [Mac](https://github.com/23botnari/screen-releases/releases/download/v1.0.1/Screen-1.0.1-mac-arm64.dmg) · [Windows](https://github.com/23botnari/screen-releases/releases/download/v1.0.1/Screen-1.0.1-win-x64.exe) |
